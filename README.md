@@ -1,5 +1,5 @@
 # DynamicStack
-**C program to illustrate the working of Dynamic Stack , performing two major operations on it i.e. PUSH() and POP()**
+C program to illustrate the working of Dynamic Stack , performing two major operations on it i.e. PUSH() and POP()
             
 The main operations with stacks are:           
 * STACK-PUSH(S,x) is the insertion operation for stacks.          
